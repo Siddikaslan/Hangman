@@ -35,5 +35,5 @@ The game ends when:
    ```bash
    git clone https://github.com/Siddikaslan/Hangman.git
    cd Hangman
-   python hangman.py
+   python main.py
    ```
